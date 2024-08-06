@@ -1,0 +1,4 @@
+#Mon Aug 05 03:42:07 AST 2024
+base.0=/Users/ahmadelraqab/Documents/mobile-development/GitHub/alhaddaq_news/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

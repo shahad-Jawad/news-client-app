@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "name": "Dev",
+        //     "request": "launch",
+        //     "type": "dart",
+        //     "program": "lib/main.dart",
+        //     "args": [
+        //         "--dart-define=DEFINE_APP_DISPLAY_NAME=[DEV]links45",
+        //         "--dart-define=DEFINE_APP_ID=com.horizons45.links45.dev",
+        //         "--dart-define=DEFINE_ENV=dev",
+        //         "--dart-define=DEFINE_DEVELOPMENT_TEAM=GA97Z32A5N"
+        //     ],
+        // },
+        // {
+        //     "name": "Prod",
+        //     "request": "launch",
+        //     "type": "dart",
+        //     "program": "lib/main.dart",
+        //     "args": [
+        //         "--dart-define=DEFINE_APP_DISPLAY_NAME=links45",
+        //         "--dart-define=DEFINE_APP_ID=com.horizons45.links45",
+        //         "--dart-define=DEFINE_ENV=prod",
+        //         "--dart-define=DEFINE_DEVELOPMENT_TEAM=GA97Z32A5N"
+        //     ],
+        // }
+    ]
+}

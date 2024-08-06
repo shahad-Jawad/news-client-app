@@ -35,6 +35,7 @@ class _BreakingSliderState extends State<BreakingSlider> {
                   autoPlay: true,
                   enlargeCenterPage: true,
                   aspectRatio: 2.0,
+                  enlargeFactor: 0.3,
                   onPageChanged: (index, reason) {
                     setState(() {
                       context.read<BreakingNewsCubit>().current = index;
